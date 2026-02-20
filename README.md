@@ -94,32 +94,6 @@ The system:
 
 ---
 
-## 📚 Documentation Requirement
-
-Students must include:
-
-- File-level Doxygen documentation block
-- Function documentation for:
-  - `setup()`
-  - `loop()`
-- Required tags:
-  - `@file`
-  - `@brief`
-  - `@author`
-  - `@date`
-
----
-
-## 📊 Submission Requirements
-
-- Minimum 5 meaningful commits
-- Proper commit message format
-- All TODO tasks completed
-- Doxygen documentation included
-- Code must compile successfully
-
----
-
 ## 🔮 Future Improvements
 
 - Integrate buzzer alert
